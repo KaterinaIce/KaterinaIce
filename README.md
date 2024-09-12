@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KaterinaIce
+- 👋 Hi, I’m Katerina from Iceland
 - 👀 I’m interested in AI Engeneering
 - 🌱 I’m currently learning python, SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me katerina@icecorpo.is
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+
 
 <!---
 KaterinaIce/KaterinaIce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
